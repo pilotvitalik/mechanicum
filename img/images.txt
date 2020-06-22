@@ -1,0 +1,5 @@
+ключ разводной - fa fa-wrench
+авто - fa fa-car
+настройки - fa fa-gear
+молния - fa fa-bolt
+

@@ -1,0 +1,12 @@
+ключ разводной - fa fa-wrench
+авто - fa fa-car
+настройки - fa fa-gear
+молния - fa fa-bolt
+калькулятор - fa fa-calculator
+папка - fa fa-paste
+солнце - fa fa-certificate
+кавычки - fa fa-quote-left
+точка на карте - fa fa-map-marker
+трубка телефона - fa fa-phone
+часы - fa fa-clock-o
+галочка вправо - fa fa-chevron-right
